@@ -1,0 +1,1 @@
+package com.rssoft.restapi.repositories;public class CourseRepo {}
