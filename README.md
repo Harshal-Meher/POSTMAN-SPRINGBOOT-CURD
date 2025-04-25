@@ -1,0 +1,12 @@
+1.Get All Student(GetMapping)
+![image](https://github.com/user-attachments/assets/e169b47c-0af5-4562-8b59-4670cae50200)
+2.Get Single Student(GetMapping)
+![image](https://github.com/user-attachments/assets/1b26a8c5-d10c-415b-844d-976ddfa0f732)
+3.Add Student (POST)(PostMapping)
+![image](https://github.com/user-attachments/assets/db363d74-9bc0-40da-b9b0-c8768f3c4927)
+4.Get All Student After Adding New Student
+![image](https://github.com/user-attachments/assets/19deb91c-4898-4867-b284-1c008129cfc3)
+5.Delete Student Befour(DeleteMapping)
+![image](https://github.com/user-attachments/assets/b07755e9-5f74-4408-91cb-fda2f079f6a4)
+6.Delete Student After(DeleteMapping)
+![image](https://github.com/user-attachments/assets/326626b0-fdff-4c4a-99c1-db83a649025e)
